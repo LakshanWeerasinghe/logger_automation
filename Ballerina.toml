@@ -1,0 +1,7 @@
+[package]
+org = "runner"
+name = "logger_automation"
+version = "0.1.0"
+
+[build-options]
+sticky = true
